@@ -18,7 +18,7 @@ on:
       web:
         description: "The web repositry clone URL and extra commands"
         required: true
-        default: "Mrshadow961/web"
+        default: "Dester-Alken/Dester-Libdrive-Web"
       web-branch:
         description: "The branch of the web repositry to clone"
         required: true
